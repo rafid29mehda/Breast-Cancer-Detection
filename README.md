@@ -1,4 +1,4 @@
-# Breast Cancer Detection
+# Project: Breast Cancer Detection
 
 ## Overview
 This project predicts breast cancer diagnosis (Malignant or Benign) using the Wisconsin Breast Cancer Dataset. Seven machine learning models are trained and evaluated based on accuracy and ROC-AUC scores, with results visualized in a bar chart.
